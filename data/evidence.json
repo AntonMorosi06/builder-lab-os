@@ -1,0 +1,20 @@
+[
+  {
+    "project": "Morosi Labs Company",
+    "type": "GitHub repository",
+    "status": "created",
+    "description": "Public company foundation repository created with README, roadmap, business model and evidence policy."
+  },
+  {
+    "project": "Builder Lab OS",
+    "type": "Prototype",
+    "status": "in progress",
+    "description": "Static MVP project structure created locally."
+  },
+  {
+    "project": "MicroBot Labs",
+    "type": "Documentation and architecture",
+    "status": "available",
+    "description": "Existing MicroBot GitHub ecosystem used as flagship internal case study."
+  }
+]

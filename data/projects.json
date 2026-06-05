@@ -1,0 +1,62 @@
+[
+  {
+    "id": "morosi-labs-company",
+    "name": "Morosi Labs Company",
+    "category": "Company",
+    "status": "prepared",
+    "maturity": "pre-company validation",
+    "description": "Company foundation repository defining vision, product direction, evidence policy, business model and roadmap.",
+    "repo": "https://github.com/AntonMorosi06/morosi-labs-company",
+    "next": "Use as company-level map and validation base."
+  },
+  {
+    "id": "builder-lab-os",
+    "name": "Builder Lab OS",
+    "category": "Product",
+    "status": "static MVP",
+    "maturity": "planned/prepared",
+    "description": "First Morosi Labs product: a project operating system for technical builders.",
+    "repo": "https://github.com/AntonMorosi06/builder-lab-os",
+    "next": "Build the v0.1 static dashboard and publish demo screenshots."
+  },
+  {
+    "id": "microbot-labs",
+    "name": "MicroBot Labs",
+    "category": "Robotics",
+    "status": "hardware-ready scaffold",
+    "maturity": "not yet hardware-validated",
+    "description": "Flagship robotics ecosystem with ESP32, dashboard, telemetry, simulation and physical validation path.",
+    "repo": "https://github.com/AntonMorosi06/microbot-labs",
+    "next": "Capture real ESP32 validation evidence."
+  },
+  {
+    "id": "microbot-drone-physical-lab",
+    "name": "MicroBot Drone Physical Lab",
+    "category": "Physical Lab",
+    "status": "prepared physical lab baseline",
+    "maturity": "pre-build planning",
+    "description": "Physical laboratory structure for MicroBot bench nodes and separate indoor drone observation platform.",
+    "repo": "https://github.com/AntonMorosi06/microbot-drone-physical-lab",
+    "next": "Add build photos, hardware logs and bench-test reports."
+  },
+  {
+    "id": "linux-network-security-lab",
+    "name": "Linux Network Security Lab",
+    "category": "Cybersecurity",
+    "status": "portfolio-ready candidate",
+    "maturity": "validated-offline",
+    "description": "Defensive Linux, networking and cybersecurity proof-of-work lab with local authorized exercises.",
+    "repo": "https://github.com/AntonMorosi06/linux-network-security-lab",
+    "next": "Complete release checklist and create public demo summary."
+  },
+  {
+    "id": "ai-data-lab",
+    "name": "AI Data Lab",
+    "category": "AI/Data",
+    "status": "source reorganized",
+    "maturity": "portfolio baseline",
+    "description": "Data science, ML, clustering and analytical visualization materials organized for portfolio use.",
+    "repo": "https://github.com/AntonMorosi06/ai-data-lab",
+    "next": "Add case-study summaries and screenshots."
+  }
+]
