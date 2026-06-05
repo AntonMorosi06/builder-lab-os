@@ -1,0 +1,32 @@
+[
+  {
+    "episode": 1,
+    "title": "Why I am building Morosi Labs",
+    "status": "planned",
+    "goal": "Explain the company idea, the personal problem and the first product direction."
+  },
+  {
+    "episode": 2,
+    "title": "How I organize my GitHub ecosystem",
+    "status": "planned",
+    "goal": "Show the problem of scattered repositories and introduce Builder Lab OS."
+  },
+  {
+    "episode": 3,
+    "title": "Building Builder Lab OS v0.1",
+    "status": "planned",
+    "goal": "Record the first static prototype and explain the dashboard sections."
+  },
+  {
+    "episode": 4,
+    "title": "MicroBot as the flagship case study",
+    "status": "planned",
+    "goal": "Explain how MicroBot becomes the proof-of-work example inside Morosi Labs."
+  },
+  {
+    "episode": 5,
+    "title": "From student chaos to technical proof-of-work",
+    "status": "planned",
+    "goal": "Turn the whole journey into a public build-in-progress story."
+  }
+]

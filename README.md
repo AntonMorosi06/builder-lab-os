@@ -14,7 +14,7 @@ Current maturity:
 
 - Product identity: prepared
 - Static web prototype: created
-- GitHub repository: prepared
+- GitHub repository: created
 - Data model: local JSON
 - Backend: not included
 - Database: not included
@@ -22,48 +22,54 @@ Current maturity:
 - Payments: not included
 - Commercial status: validation stage
 
-## Core idea
+## Product direction
 
-Technical builders often have many scattered materials:
+Builder Lab OS is not a generic note app.
 
-- GitHub repositories
-- notes
-- screenshots
-- logs
-- hardware evidence
-- video ideas
-- study plans
-- roadmaps
-- unfinished projects
-- portfolio drafts
+It is designed around technical proof-of-work.
 
-Builder Lab OS organizes those materials into a clear technical dashboard.
+The product helps technical builders answer five questions:
+
+1. What am I building?
+2. What is the current maturity of each project?
+3. What evidence proves that progress is real?
+4. What should I build next?
+5. How do I explain this work publicly?
+
+## Main modules
+
+- Project dashboard
+- Repository cards
+- Evidence log
+- Study tracker
+- YouTube episode planner
+- Startup validation dashboard
+- Portfolio output section
 
 ## First internal case study
 
 The first internal case study is the Morosi Labs ecosystem:
 
 - Morosi Labs Company
+- Builder Lab OS
 - MicroBot Labs
 - MicroBot Drone Physical Lab
 - MicroBot Simulation Core
 - Linux Network Security Lab
 - AI Data Lab
-- Drone assets
-- YouTube build-in-public workflow
 
 ## How to run locally
 
 From the repository folder:
 
 ```bash
-python3 -m http.server 8000
+python3 -m http.server 8010
 ```
 
 Then open:
 
 ```text
-http://localhost:8000
+http://localhost:8010
 ```
 
 ## Correct current claim

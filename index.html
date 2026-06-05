@@ -15,23 +15,25 @@
       </div>
       <div class="nav-links">
         <a href="#projects">Projects</a>
+        <a href="#study">Study</a>
         <a href="#evidence">Evidence</a>
-        <a href="#roadmap">Roadmap</a>
-        <a href="#portfolio">Portfolio</a>
+        <a href="#videos">Videos</a>
+        <a href="#validation">Validation</a>
       </div>
     </nav>
 
     <section class="hero-grid">
       <div>
-        <p class="eyebrow">Morosi Labs — Product Prototype v0.1</p>
+        <p class="eyebrow">Morosi Labs — Product Prototype v0.2</p>
         <h1>Organize technical chaos into proof-of-work.</h1>
         <p class="hero-text">
           Builder Lab OS is a project operating system for students, makers and young technical builders.
-          It helps organize projects, GitHub repositories, evidence, study, videos, roadmaps and portfolio material.
+          It connects GitHub repositories, project status, evidence, study, YouTube documentation and startup validation in one dashboard.
         </p>
         <div class="hero-actions">
           <a class="button primary" href="#projects">Open dashboard</a>
-          <a class="button secondary" href="https://github.com/AntonMorosi06/morosi-labs-company" target="_blank">Morosi Labs</a>
+          <a class="button secondary" href="https://github.com/AntonMorosi06/morosi-labs-company" target="_blank" rel="noopener">Morosi Labs</a>
+          <a class="button secondary" href="https://github.com/AntonMorosi06/builder-lab-os" target="_blank" rel="noopener">GitHub Repo</a>
         </div>
       </div>
 
@@ -40,6 +42,7 @@
         <ul>
           <li><strong>Product:</strong> Builder Lab OS</li>
           <li><strong>Status:</strong> Static MVP prototype</li>
+          <li><strong>Version:</strong> v0.2 product validation layer</li>
           <li><strong>Backend:</strong> Not included</li>
           <li><strong>Commercial:</strong> Validation stage</li>
           <li><strong>First case study:</strong> Morosi Labs ecosystem</li>
@@ -55,16 +58,16 @@
         <p>tracked projects</p>
       </article>
       <article>
+        <span id="studyCount">0</span>
+        <p>study blocks</p>
+      </article>
+      <article>
+        <span id="videoCount">0</span>
+        <p>video episodes</p>
+      </article>
+      <article>
         <span id="evidenceCount">0</span>
         <p>evidence items</p>
-      </article>
-      <article>
-        <span>v0.1</span>
-        <p>prototype phase</p>
-      </article>
-      <article>
-        <span>0</span>
-        <p>paying customers</p>
       </article>
     </section>
 
@@ -77,6 +80,15 @@
       <div id="projectGrid" class="grid"></div>
     </section>
 
+    <section id="study" class="section alt">
+      <div class="section-heading">
+        <p class="eyebrow">Study tracker</p>
+        <h2>Study connected to projects</h2>
+        <p>Builder Lab OS connects study activity to real outputs: repository cards, screenshots, lab reports, summaries and demos.</p>
+      </div>
+      <div id="studyGrid" class="grid two"></div>
+    </section>
+
     <section id="evidence" class="section">
       <div class="section-heading">
         <p class="eyebrow">Evidence log</p>
@@ -86,15 +98,33 @@
       <div id="evidenceList" class="evidence-list"></div>
     </section>
 
-    <section id="roadmap" class="section roadmap">
+    <section id="videos" class="section alt">
+      <div class="section-heading">
+        <p class="eyebrow">YouTube planner</p>
+        <h2>Build in public without sounding random</h2>
+        <p>Each episode should explain one real step: what changed, what was validated, what failed, and what comes next.</p>
+      </div>
+      <div id="videoList" class="video-list"></div>
+    </section>
+
+    <section id="validation" class="section">
+      <div class="section-heading">
+        <p class="eyebrow">Startup validation</p>
+        <h2>Is this useful enough to become a product?</h2>
+        <p>The project should move forward only if the workflow is useful, explainable and interesting to real users.</p>
+      </div>
+      <div id="validationGrid" class="grid two"></div>
+    </section>
+
+    <section id="roadmap" class="section roadmap alt">
       <div class="section-heading">
         <p class="eyebrow">Roadmap</p>
         <h2>From static prototype to validated product</h2>
       </div>
       <div class="timeline">
         <div><strong>v0.1</strong><span>Static local dashboard</span></div>
-        <div><strong>v0.2</strong><span>Search, filters and project detail views</span></div>
-        <div><strong>v0.3</strong><span>GitHub-oriented workflow and status tracking</span></div>
+        <div><strong>v0.2</strong><span>Study, YouTube and validation layer</span></div>
+        <div><strong>v0.3</strong><span>Search, filters and project detail views</span></div>
         <div><strong>v0.4</strong><span>GitHub Pages demo and screenshots</span></div>
         <div><strong>v1.0</strong><span>Validation candidate after real feedback</span></div>
       </div>

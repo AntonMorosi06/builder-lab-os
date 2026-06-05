@@ -17,7 +17,12 @@ The goal is to create a first usable interface that can organize real technical 
 - Documentation folder
 - Roadmap folder
 - Evidence folder
-- Basic product identity
+- Product identity
+- Project dashboard
+- Evidence log
+- Study tracker
+- YouTube episode planner
+- Startup validation dashboard
 
 ## What does not exist yet
 
@@ -31,8 +36,14 @@ The goal is to create a first usable interface that can organize real technical 
 - Real customer validation
 - Production security review
 
+## Current milestone
+
+Builder Lab OS v0.2 adds the product validation layer.
+
+The product now shows not only projects and evidence, but also study blocks, YouTube episode planning and validation metrics.
+
 ## Next milestone
 
-The next milestone is Builder Lab OS v0.1:
+The next milestone is Builder Lab OS v0.3:
 
-A local static dashboard that can display project cards, repository status, evidence items, study blocks, video ideas and roadmap steps using local JSON data.
+A more interactive dashboard with search, filters, project detail views and manual repository maturity updates.

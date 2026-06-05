@@ -1,0 +1,30 @@
+[
+  {
+    "title": "GitHub Ecosystem Mapping",
+    "area": "Project Organization",
+    "status": "active",
+    "description": "Map the existing repositories and classify them by purpose, maturity and public value.",
+    "output": "Repository cards, portfolio summaries and product case studies."
+  },
+  {
+    "title": "MicroBot Physical Validation",
+    "area": "Robotics",
+    "status": "planned",
+    "description": "Use the MicroBot ecosystem as the flagship technical case study for evidence-based project development.",
+    "output": "Hardware logs, dashboard screenshots, validation notes and demo videos."
+  },
+  {
+    "title": "Linux and Cybersecurity Lab",
+    "area": "Cybersecurity",
+    "status": "active",
+    "description": "Connect defensive Linux and network security exercises to portfolio evidence.",
+    "output": "Command reports, lab notes, sanitized screenshots and study summaries."
+  },
+  {
+    "title": "AI and Data Lab",
+    "area": "AI/Data",
+    "status": "prepared",
+    "description": "Use existing notebooks and demos as technical evidence for data science and machine learning learning.",
+    "output": "Case study summaries, screenshots and explanation cards."
+  }
+]

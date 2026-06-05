@@ -1,0 +1,32 @@
+[
+  {
+    "metric": "Prototype usable by founder",
+    "target": "Dashboard helps organize at least 6 real repositories",
+    "status": "in progress"
+  },
+  {
+    "metric": "Public demo",
+    "target": "GitHub Pages link available and readable",
+    "status": "pending"
+  },
+  {
+    "metric": "Feedback",
+    "target": "Collect feedback from at least 10 people",
+    "status": "not started"
+  },
+  {
+    "metric": "Interest",
+    "target": "At least 3 people ask to try the tool",
+    "status": "not started"
+  },
+  {
+    "metric": "Video proof",
+    "target": "Publish at least 3 build-in-public videos",
+    "status": "not started"
+  },
+  {
+    "metric": "Repeatable workflow",
+    "target": "Use Builder Lab OS weekly to update GitHub/project status",
+    "status": "planned"
+  }
+]
